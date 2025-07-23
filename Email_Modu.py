@@ -12,4 +12,4 @@ email_password = 'yyzc iyxc endy puhm'
 with smtplib.SMTP_SSL(smtp_server, port) as smtp:
     smtp.login(email_address, email_password)
     smtp.send_message(msg)
-print("Email sent successfully done!")
+print("Email sent successfully by awais!")
