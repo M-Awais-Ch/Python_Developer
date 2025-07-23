@@ -1,2 +1,2 @@
 # Python_Developer
-Enail_Module(Through SMTPLIB)
+Email_Module(Through SMTPLIB)
