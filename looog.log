@@ -1,0 +1,8 @@
+WARNING:root:show warning
+ERROR:root:show error
+CRITICAL:root:show critical
+2025-07-16 12:53:12,744:root : shoe debug
+2025-07-16 12:53:12,744:root : show info
+2025-07-16 12:53:12,745:root : show warning
+2025-07-16 12:53:12,745:root : show error
+2025-07-16 12:53:12,745:root : show critical

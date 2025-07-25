@@ -1,0 +1,8 @@
+46# root= 2025-07-16 12:41:53,157: Debug
+47# root= 2025-07-16 12:41:53,157: This is your warning
+48# root= 2025-07-16 12:41:53,157: Info
+49# root= 2025-07-16 12:41:53,157: Next is error
+50# root= 2025-07-16 12:41:53,157: Critical
+WARNING:root:This is your warning
+ERROR:root:Next is error
+CRITICAL:root:Critical
