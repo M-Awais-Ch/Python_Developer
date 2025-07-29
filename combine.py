@@ -11,3 +11,4 @@ print(list(filter(lambda x:x%2==0,a)))
 from functools import reduce
 print(reduce(lambda x,y:x+y,a))
 print("hi")
+print("how are you")
