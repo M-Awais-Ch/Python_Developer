@@ -77,7 +77,7 @@ print(a.id_det(7))
 print(a.id_det(0))
 print(a.name_det('Muhammad Idrees'))
 print(a.name_det('Muhammad Awais'))
-
+print("Thank you")
 
 
 
